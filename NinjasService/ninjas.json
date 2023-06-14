@@ -1,0 +1,21 @@
+{
+  "ninjas": [
+    {
+      "name": "Naruto",
+      "nature": "wind",
+      "clans": [
+        {
+          "name": "Uzumaki"
+        }
+      ],
+      "ranks": [
+        {
+          "name": "Hokage"
+        }
+      ],
+      "countOfMis": 120,
+      "specialAbility": "ShadowClonning",
+      "village": "Konoha"
+    }
+  ]
+}
