@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Shinobies>
+    <Villages>
+        <Village name="Konoha">
+            <Clans>
+                <Clan name="Uzumaki">
+                    <Ranks>
+                        <Rank rank="Hokage">
+                            <Ninjas>
+                                <Ninja name="Naruto" nature="wind" 
+				  CountOfMis="120"
+ 				  SpecialAbility="ShadowClonning"/>
+                            </Ninjas>
+                        </Rank>
+                    </Ranks>
+                </Clan>
+            </Clans>
+        </Village>
+    </Villages>
+</Shinobies>
